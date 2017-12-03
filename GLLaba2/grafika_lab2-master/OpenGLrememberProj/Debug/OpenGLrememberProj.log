@@ -1,0 +1,15 @@
+﻿  Render.cpp
+d:\для закачки\gllaba2\grafika_lab2-master\openglrememberproj\render.cpp(115): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+d:\для закачки\gllaba2\grafika_lab2-master\openglrememberproj\render.cpp(117): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+d:\для закачки\gllaba2\grafika_lab2-master\openglrememberproj\render.cpp(118): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+d:\для закачки\gllaba2\grafika_lab2-master\openglrememberproj\render.cpp(327): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+d:\для закачки\gllaba2\grafika_lab2-master\openglrememberproj\render.cpp(328): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+d:\для закачки\gllaba2\grafika_lab2-master\openglrememberproj\render.cpp(329): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+  PrimitivesStatic.cpp
+  Primitives.cpp
+  OpenGLrememberProj.cpp
+  Object.cpp
+  MyOGL.cpp
+  Создание кода...
+  OpenGLrememberProj.vcxproj -> D:\Для закачки\GLLaba2\grafika_lab2-master\Debug\OpenGLrememberProj.exe
+  OpenGLrememberProj.vcxproj -> D:\Для закачки\GLLaba2\grafika_lab2-master\Debug\OpenGLrememberProj.pdb (Partial PDB)
